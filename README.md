@@ -37,7 +37,7 @@ mainifest error
 <archive>
 <manifest>
 <addClasspath>true</addClasspath>
-<mainClass>com.multit.App</mainClass> <!-- Replace with main class
+<mainClass>com.mvit.App</mainClass> <!-- Replace with main class
 </manifest>
 </archive>
 </configuration>
